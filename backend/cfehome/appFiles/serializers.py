@@ -7,8 +7,8 @@ from datetime import datetime, timedelta
 import plaid
 from uuid import uuid4
 from .models import User
-from .utils import get_plaid_client
-from .tasks import get_transactions, get_accounts, get_access_token
+# from .utils import get_plaid_client
+# from .tasks import get_transactions, get_accounts, get_access_token
 
 
 class RegisterUserSerializer(serializers.ModelSerializer):
