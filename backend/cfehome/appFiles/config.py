@@ -1,0 +1,5 @@
+PLAID_CLIENT_ID ='234uib423432423ih43u2h432uh4'
+PLAID_SECRET = '234jnibfre89reuhre9tr8etuhre'
+PLAID_PRODUCTS = ['transactions']
+PLAID_COUNTRY_CODES = ['US']
+PLAID_ENV = 'sandbox'
